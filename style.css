@@ -66,10 +66,10 @@ h3 {
 #logo {
   float: left;
   width: 250px;
-  height: 90px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  height: 75px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 90px;
   color: #ffffff;
   text-align: center;
